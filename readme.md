@@ -37,3 +37,8 @@ Prototype for User Story 2
 
 <img src="readme.assets/eng_minor_sc2.PNG" alt="eng_minor_sc2" style="zoom: 75%;" />
 
+User Story 3: As a student, I want to search through courses by credit type so I can easily create a timetable that fulfills graduation requirements.
+
+![image](https://user-images.githubusercontent.com/50087564/197366399-48aa3c22-51f3-4ac1-9009-061e6b17695f.png)
+
+
