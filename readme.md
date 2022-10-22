@@ -33,7 +33,7 @@ User Story 2: As a student, I want to easily assess which courses will contribut
 
 Prototype for User Story 2
 
-<img src="readme.assets/eng_minor_sc1.png" alt="eng_minor_sc1" style="zoom: 75%;" />
+<img src="readme.assets/eng_minor_sc1.PNG" alt="eng_minor_sc1" style="zoom: 75%;" />
 
-<img src="readme.assets/eng_minor_sc2.png" alt="eng_minor_sc2" style="zoom: 75%;" />
+<img src="readme.assets/eng_minor_sc2.PNG" alt="eng_minor_sc2" style="zoom: 75%;" />
 
