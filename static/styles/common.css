@@ -19,16 +19,26 @@ color: #00204E;
     text-align: center;
 }
 
-.common-page-form-field {
+select .common-page-form {
     background-color: beige;
     border-radius: 5px;
     border-color: transparent;
 }
 
+input .common-page-form {
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.common-page-form-field {
+    margin: 2px auto;
+}
+
 .common-page-form {
     border-width: 2px;
     border-color: solid;
-    color: #00204E;
+    border-color: #00204E;
     border-radius: 20px;
     padding: 20px;
     margin: 20px auto;
