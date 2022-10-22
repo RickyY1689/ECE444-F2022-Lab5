@@ -37,7 +37,7 @@ input .common-page-form {
 
 .common-page-form {
     border-width: 2px;
-    border-color: solid;
+    border-style: solid;
     border-color: #00204E;
     border-radius: 20px;
     padding: 20px;
