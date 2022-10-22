@@ -47,9 +47,21 @@ class CourseSearchForm(Form):
         ('Robotics & Mechatronics','Robotics & Mechatronics'),
         ('Sustainable Energy','Sustainable Energy')
     ]
+
+    credit_type = [
+        ('HSS', 'HSS'),
+        ('CS', 'CS'),
+        ('Technical Elective', 'Technical Elective'),
+        ('Science Elective', 'Science Elective'),
+        ('Math Elective', 'Math Elective'),
+        ('Free Elective', 'Free Elective'),
+        ('Kernel', 'Kernel')
+    ]
+
     select = SelectField('Course Year:', choices=year_choices)
     top = SelectField('',choices=top)
     minor_eligibility = SelectField('Engineering Minor Eligibility (Engineering Related Department Only)',choices=minors)
+    credit = SelectField('Course Credit Type', choices=credit_type)
     divisions = SelectField('Division:', choices=divisions)
     departments = SelectField('Department:', choices=departments)
     campuses = SelectField('Campus:', choices=campus)
