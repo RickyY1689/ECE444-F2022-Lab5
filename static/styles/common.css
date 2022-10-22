@@ -6,12 +6,12 @@ body {
   }
   
 h1 {
-color: #00204E;
-text-align: center;
+    color: #00204E;
+    text-align: center;
 }
 
 h3 {
-color: #00204E;
+    color: #00204E;
 }
 
 .common-page-heading-container {
@@ -36,8 +36,21 @@ color: #00204E;
     margin: 20px 0;
 }
 
-.common-page-form :is(select, input) {
+.common-page-form :is(select, input, textarea) {
     background-color: beige;
     border-radius: 5px;
     border-color: transparent;
 }
+
+.common-page-form-review-label {
+    font-weight: bold;
+    padding: 20px 0 0 0;
+}
+
+.common-page-form-review-text {
+    width: 500px;
+    height: 300px;
+    text-align: left;
+    vertical-align: top;
+}
+
