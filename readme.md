@@ -11,15 +11,15 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways with min
 
 ## Activity 2-5
 
-==Screenshot of the homepage==
+Screenshot of the homepage
 
-![No description available.](https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/302238806_649813843334122_4416108547723627731_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qZEh5h860_YAX-jwIoz&_nc_ht=scontent-ord5-2.xx&oh=03_AdRsMJ55J6gwbvtpGEgo5oivRQ8BEyMoV2vxj9s7cUPdeA&oe=637BA08F)
+![No description available.](https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/310959929_1473494093147755_6053136593990081542_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=wWARrzFwpuYAX__wPI3&_nc_ht=scontent-ord5-2.xx&oh=03_AdShQuZkuzOV0-77zWJIJunhR6P-FHzlzjJTrobDmylxLg&oe=63797A29)
 
 
 
-==Screenshot of the Results Page - Form & Table==
+Screenshot of the Results Page - Form & Table
 
-![No description available.](https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/309782572_1648268372236966_3423369687232951990_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=y2EA88qMXugAX-vXK-i&_nc_ht=scontent-ord5-2.xx&oh=03_AdR3c5DYA07w8jOM1uCO9NuEHhp4ERXKGjuEXq4lertmYg&oe=637987E3)
+![No description available.](https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/312299615_780788443015431_2277061702654099276_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gz_6Ych9EJUAX-IjmHh&tn=ejyS42Wban9DiIO0&_nc_ht=scontent-ord5-2.xx&oh=03_AdQ-Mvq1mFz6uE9Ifm9x58FiIx5jrA4or7UXTlQYLVM3ug&oe=63783004)
 
 ## Activity 6
 
