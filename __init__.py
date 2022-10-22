@@ -33,8 +33,23 @@ class CourseSearchForm(Form):
         ('25','25'),
         ('50','50')
     ]
+
+    minors = [
+        ('None','None'),
+        ('Advanced Manufacturing','Advanced Manufacturing'),
+        ('Artificial Intelligence','Artificial Intelligence'),
+        ('Bioengineering','Bioengineering'),
+        ('Engineering Business','Engineering Business'),
+        ('Environmental Engineering','Environmental Engineering'),
+        ('Global Leadership','Global Leadership'),
+        ('Music Performance','Music Performance'),
+        ('Nanoengineering','Nanoengineering'),
+        ('Robotics & Mechatronics','Robotics & Mechatronics'),
+        ('Sustainable Energy','Sustainable Energy')
+    ]
     select = SelectField('Course Year:', choices=year_choices)
     top = SelectField('',choices=top)
+    minor_eligibility = SelectField('Engineering Minor Eligibility (Engineering Related Department Only)',choices=minors)
     divisions = SelectField('Division:', choices=divisions)
     departments = SelectField('Department:', choices=departments)
     campuses = SelectField('Campus:', choices=campus)
